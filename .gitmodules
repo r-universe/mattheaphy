@@ -5,6 +5,18 @@
 [submodule "actxps"]
 	path = actxps
 	url = https://github.com/mattheaphy/actxps
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/tidymodels/hardhat
+	registered = false
 [submodule "offsetreg"]
 	path = offsetreg
 	url = https://github.com/mattheaphy/offsetreg
+[submodule "parsnip"]
+	path = parsnip
+	url = https://github.com/tidymodels/parsnip
+	registered = false
+[submodule "sparsevctrs"]
+	path = sparsevctrs
+	url = https://github.com/r-lib/sparsevctrs
+	registered = false
