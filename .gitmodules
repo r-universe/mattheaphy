@@ -5,6 +5,9 @@
 [submodule "actxps"]
 	path = actxps
 	url = https://github.com/mattheaphy/actxps
+[submodule "mortSOA"]
+	path = mortSOA
+	url = https://github.com/mattheaphy/mortsoa
 [submodule "offsetreg"]
 	path = offsetreg
 	url = https://github.com/mattheaphy/offsetreg
